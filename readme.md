@@ -71,7 +71,7 @@
 | Add Two Numbers              |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
 | Linked List Cycle            |   Easy   |  :heavy_check_mark:  |  :heavy_minus_sign: |
 |  Find The Duplicate Number   |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
-| LRU Cache                    |   Medium   |  :x:  |  :heavy_minus_sign: |
+| LRU Cache                    |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
 | Merge K Sorted Lists         |   Hard     |  :x:  |  :heavy_minus_sign: |
 | Reverse Nodes In K Group     |   Hard    |  :x:  |  :heavy_minus_sign: |
 
