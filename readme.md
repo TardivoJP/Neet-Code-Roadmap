@@ -4,15 +4,15 @@
 
 |            **Problem**      |**Difficulty**|      **Status**     |   **Redo Status**   |
 |:----------------------------:|:----------:|:--------------------:|:-------------------:|
-|      Contains Duplicate      |    Easy    |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|         Valid Anagram        |    Easy    |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|            Two Sum           |    Easy    |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|        Group Anagrams        |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|    Top K Frequent Elements   |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|   Encode and Decode Strings  |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
-| Product of Array Except Self |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|         Valid Sudoku         |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
-| Longest Consecutive Sequence |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|     [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)   |    Easy    |  :heavy_check_mark:  |  :heavy_check_mark: |
+|         [Valid Anagram](https://leetcode.com/problems/valid-anagram)        |    Easy    |  :heavy_check_mark:  |  :heavy_check_mark: |
+|            [Two Sum](https://leetcode.com/problems/two-sum)          |    Easy    |  :heavy_check_mark:  |  :heavy_check_mark: |
+|        [Group Anagrams](https://leetcode.com/problems/group-anagrams)        |   Medium   |  :heavy_check_mark:  |  :heavy_check_mark: |
+|    [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)   |   Medium   |  :heavy_check_mark:  |  :heavy_check_mark: |
+|   [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings)  |   Medium   |  :heavy_check_mark:  |  :heavy_check_mark: |
+| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) |   Medium   |  :heavy_check_mark:  |  :heavy_check_mark: |
+|         [Valid Sudoku](https://leetcode.com/problems/valid-sudoku)         |   Medium   |  :heavy_check_mark:  |  :heavy_check_mark: |
+| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) |   Medium   |  :heavy_check_mark:  |  :heavy_check_mark: |
 
 ## Two Pointers
 
@@ -28,8 +28,8 @@
 
 |            **Problem**      |**Difficulty**|      **Status**     |   **Redo Status**   |
 |:----------------------------:|:----------:|:--------------------:|:-------------------:|
-|      Valid Parentheses      |    Easy    |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|         Min Stack        |    Medium     |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|      [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)      |    Easy    |  :heavy_check_mark:  |  :heavy_check_mark: |
+|         [Min Stack](https://leetcode.com/problems/min-stack)        |    Medium     |  :heavy_check_mark:  |  :heavy_check_mark: |
 |Evaluate Reverse Polish Notation|    Medium     |  :heavy_check_mark:  |  :heavy_minus_sign: |
 |     Generate Parentheses     |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
 |    Daily Temperatures  |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
