@@ -30,11 +30,11 @@
 |:----------------------------:|:----------:|:--------------------:|:-------------------:|
 |      [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)      |    Easy    |  :heavy_check_mark:  |  :heavy_check_mark: |
 |         [Min Stack](https://leetcode.com/problems/min-stack)        |    Medium     |  :heavy_check_mark:  |  :heavy_check_mark: |
-|Evaluate Reverse Polish Notation|    Medium     |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|     Generate Parentheses     |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|    Daily Temperatures  |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|          Car Fleet         |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
-| Largest Rectangle In Histogram |   Hard   |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|    Medium     |  :heavy_check_mark:  |  :heavy_check_mark: |
+|     [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)     |   Medium   |  :heavy_check_mark:  |  :heavy_check_mark: |
+|    [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)  |   Medium   |  :heavy_check_mark:  |  :heavy_check_mark: |
+|          [Car Fleet](https://leetcode.com/problems/car-fleet/)         |   Medium   |  :heavy_check_mark:  |  :heavy_check_mark: |
+| [Largest Rectangle In Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) |   Hard   |  :heavy_check_mark:  |  :heavy_check_mark: |
 
 ## Binary Search
 
