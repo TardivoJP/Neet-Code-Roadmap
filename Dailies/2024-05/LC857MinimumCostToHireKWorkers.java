@@ -3,7 +3,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
-class LC857MinimumCostToHireKWorkers {
+class MinimumCostToHireKWorkers {
     public static void main(String[] args) {
         int[] quality1 = {10,20,5};
         int[] wage1 = {70,50,30};

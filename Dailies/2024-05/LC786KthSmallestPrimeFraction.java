@@ -1,7 +1,7 @@
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
-class LC786KthSmallestPrimeFraction {
+class KthSmallestPrimeFraction {
     public static void main(String[] args) {
         int[] inpu1 = {1,2,3,5};
         int k1 = 3;

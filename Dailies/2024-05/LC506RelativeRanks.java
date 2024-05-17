@@ -1,7 +1,7 @@
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
-class LC506RelativeRanks {
+class RelativeRanks {
   public static void main(String[] args) {
     int[] input1 = {5,4,3,2,1};
     int[] input2 = {10,3,8,9,4};

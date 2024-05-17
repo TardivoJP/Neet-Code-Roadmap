@@ -1,6 +1,6 @@
-import java.util.*;
+import java.util.Arrays;
 
-class LC3075MaximizeHappinessOfSelectedChildren {
+class MaximizeHappinessOfSelectedChildren {
   public static void main(String[] args) {
     int[] input1 = {1,2,3};
     int k1 = 2;

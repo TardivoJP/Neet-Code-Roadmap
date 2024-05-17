@@ -4,7 +4,7 @@ import java.util.List;
 //no main function with tests inputs in this one because
 //List<List<Integer>> are kind of annoying to work with compared to int[][]
 
-class LC2812FindTheSafestPathInAGrid {
+class FindTheSafestPathInAGrid {
   public static int[] nextX = {1,-1,0,0};
   public static int[] nextY = {0,0,1,-1};
   public static int maxSafeness = 0;

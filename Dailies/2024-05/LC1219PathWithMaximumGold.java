@@ -1,4 +1,4 @@
-class LC1219PathWithMaximumGold {
+class PathWithMaximumGold {
     public static void main(String[] args){
         int[][] input1 = {{0,6,0},{5,8,7},{0,9,0}};
         int[][] input2 = {{1,0,7},{2,0,6},{3,4,5},{0,3,0},{9,0,20}};
