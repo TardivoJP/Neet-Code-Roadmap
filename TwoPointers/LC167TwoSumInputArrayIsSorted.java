@@ -1,4 +1,4 @@
-class LC167TwoSumInputArrayIsSorted {
+class TwoSumInputArrayIsSorted {
     public static void main(String[] args) {
         int[] testcase1arr = {2,7,11,15};
         int testcase1target = 9;

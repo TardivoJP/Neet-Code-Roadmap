@@ -1,4 +1,4 @@
-class LC567PermutationInString {
+class PermutationInString {
     public static void main(String[] args) {
         String a1 = "ab";
         String b1 = "eidbaooo";

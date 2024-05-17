@@ -1,4 +1,4 @@
-class LC121BestTimeToBuyAndSellStock {
+class BestTimeToBuyAndSellStock {
     public static void main(String[] args) {
         int[] input1 = {7,1,5,3,6,4};
         int[] input2 = {7,6,4,3,1};
