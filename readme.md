@@ -18,11 +18,11 @@
 
 |            **Problem**      |**Difficulty**|      **Status**     |   **Redo Status**   |
 |:----------------------------:|:----------:|:--------------------:|:-------------------:|
-|      Valid Palindrome     |    Easy    |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|Two Sum II Input Array Is Sorted|    Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|            3Sum           |    Medium    |  :heavy_check_mark:  |  :heavy_minus_sign: |
-| Container With Most Water |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|    Trapping Rain Water   |   Hard   |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|      [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)     |    Easy    |  :heavy_check_mark:  |  :heavy_check_mark: |
+|[Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|    Medium   |  :heavy_check_mark:  |  :heavy_check_mark: |
+|            [3Sum](https://leetcode.com/problems/3sum/)           |    Medium    |  :heavy_check_mark:  |  :heavy_check_mark: |
+| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |   Medium   |  :heavy_check_mark:  |  :heavy_check_mark: |
+|    [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)   |   Hard   |  :heavy_check_mark:  |  :heavy_check_mark: |
 
 ## Stack
 
@@ -75,10 +75,30 @@
 | Merge K Sorted Lists         |   Hard     |  :heavy_check_mark:  |  :heavy_minus_sign: |
 | Reverse Nodes In K Group     |   Hard    |  :heavy_check_mark:  |  :heavy_minus_sign: |
 
+## Trees
+
+|            **Problem**      |**Difficulty**|      **Status**     |   **Redo Status**   |
+|:----------------------------:|:----------:|:--------------------:|:-------------------:|
+|Invert Binary Tree                               |    Easy    |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|Maximum Depth of Binary Tree                     |    Easy    |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|Diameter of Binary Tree                          |    Easy    |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|Balanced Binary Tree                             |    Easy    |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|Same Tree                                        |    Easy    |  :heavy_minus_sign:  |  :heavy_minus_sign: |
+|Subtree of Another Tree                          |    Easy    |  :heavy_minus_sign:  |  :heavy_minus_sign: |
+|Lowest Common Ancestor of a Binary Search Tree   |   Medium   |  :heavy_minus_sign:  |  :heavy_minus_sign: |
+|Binary Tree Level Order Traversal                |   Medium   |  :heavy_minus_sign:  |  :heavy_minus_sign: |
+|Binary Tree Right Side View                      |   Medium   |  :heavy_minus_sign:  |  :heavy_minus_sign: |
+|Count Good Nodes In Binary Tree                  |   Medium   |  :heavy_minus_sign:  |  :heavy_minus_sign: |
+|Validate Binary Search Tree                      |   Medium   |  :heavy_minus_sign:  |  :heavy_minus_sign: |
+|Kth Smallest Element In a Bst                    |   Medium   |  :heavy_minus_sign:  |  :heavy_minus_sign: |
+|Construct Binary Tree From Preorder And Inorder Traversal  |   Medium   |  :heavy_minus_sign:  |  :heavy_minus_sign: |
+|Binary Tree Maximum Path Sum                     |   Hard     |  :heavy_minus_sign:  |  :heavy_minus_sign: |
+|Serialize And Deserialize Binary Tree            |   Hard     |  :heavy_minus_sign:  |  :heavy_minus_sign: |
+
 ## Tries
 
 |            **Problem**      |**Difficulty**|      **Status**     |   **Redo Status**   |
 |:----------------------------:|:----------:|:--------------------:|:-------------------:|
-|Implement Trie Prefix Tree|    Medium    |  :x:  |  :heavy_minus_sign: |
-|Design Add And Search Words Data Structure|Medium|:x:|  :heavy_minus_sign: |
+|Implement Trie Prefix Tree|    Medium    |  :heavy_minus_sign:  |  :heavy_minus_sign: |
+|Design Add And Search Words Data Structure|Medium|:heavy_minus_sign:|  :heavy_minus_sign: |
 |Word Search II             |    Hard     |  :heavy_check_mark:  |  :heavy_minus_sign: |
