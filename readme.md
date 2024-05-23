@@ -40,11 +40,11 @@
 
 |            **Problem**      |**Difficulty**|      **Status**     |   **Redo Status**   |
 |:----------------------------:|:----------:|:--------------------:|:-------------------:|
-|      Binary Search           |    Easy    |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|    Search a 2D Matrix        |    Medium    |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|      Koko Eating Banana      |    Medium    |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|Find Minimum In Rotated Sorted Array| Medium |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|Search In Rotated Sorted Array|   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|      [Binary Search](https://leetcode.com/problems/binary-search/)           |    Easy    |  :heavy_check_mark:  |  :heavy_check_mark: |
+|    [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)       |    Medium    |  :heavy_check_mark:  |  :heavy_check_mark: |
+|      [Koko Eating Banana](https://leetcode.com/problems/koko-eating-bananas/)      |    Medium    |  :heavy_check_mark:  |  :heavy_check_mark: |
+|[Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| Medium |  :heavy_check_mark:  |  :heavy_check_mark: |
+|[Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|   Medium   |  :heavy_check_mark:  |  :heavy_check_mark: |
 |Time Based Key Value Store    |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
 |Median of Two Sorted Arrays|   Hard   |  :heavy_check_mark:  |  :heavy_minus_sign: |
 
