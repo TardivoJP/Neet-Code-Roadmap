@@ -1,5 +1,7 @@
 # Roadmap
 
+## Progress - 59/150
+
 ## Arrays & Hashing
 
 |            **Problem**      |**Difficulty**|      **Status**     |   **Redo Status**   |
@@ -45,60 +47,60 @@
 |      [Koko Eating Banana](https://leetcode.com/problems/koko-eating-bananas/)      |    Medium    |  :heavy_check_mark:  |  :heavy_check_mark: |
 |[Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| Medium |  :heavy_check_mark:  |  :heavy_check_mark: |
 |[Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|   Medium   |  :heavy_check_mark:  |  :heavy_check_mark: |
-|Time Based Key Value Store    |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|Median of Two Sorted Arrays|   Hard   |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|[Time Based Key Value Store](https://leetcode.com/problems/time-based-key-value-store/)   |   Medium   |  :heavy_check_mark:  |  :heavy_check_mark: |
+|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|   Hard   |  :heavy_check_mark:  |  :heavy_minus_sign: |
 
 ## Sliding Window
 
 |            **Problem**      |**Difficulty**|      **Status**     |   **Redo Status**   |
 |:----------------------------:|:----------:|:--------------------:|:-------------------:|
-|Best Time to Buy And Sell Stock|    Easy    |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|Longest Substring Without Repeating Characters|Medium|:heavy_check_mark:|:heavy_minus_sign:|
-|Longest Repeating Character Replacement|Medium|  :heavy_check_mark:  |  :heavy_minus_sign: |
-|    Permutation In String     |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|  Minimum Window Substring  |   Hard   |  :heavy_check_mark:  |  :heavy_minus_sign: |
-| Sliding Window Maximum |   Hard   |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|[Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|    Easy    |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Medium|:heavy_check_mark:|:heavy_minus_sign:|
+|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|Medium|  :heavy_check_mark:  |  :heavy_minus_sign: |
+|    [Permutation In String](https://leetcode.com/problems/permutation-in-string/)    |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|  [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)  |   Hard   |  :heavy_check_mark:  |  :heavy_minus_sign: |
+| [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) |   Hard   |  :heavy_check_mark:  |  :heavy_minus_sign: |
 
 ## Linked List
 
 |            **Problem**      |**Difficulty**|      **Status**     |   **Redo Status**   |
 |:----------------------------:|:----------:|:--------------------:|:-------------------:|
-|    Reverse Linked List       |    Easy    |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|  Merge Two Sorted Lists      |    Easy    |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|       Reorder List           |    Medium    |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|Remove Nth Node From End of List|   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
-| Copy List With Random Pointer |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
-| Add Two Numbers              |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
-| Linked List Cycle            |   Easy   |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|  Find The Duplicate Number   |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
-| LRU Cache                    |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
-| Merge K Sorted Lists         |   Hard     |  :heavy_check_mark:  |  :heavy_minus_sign: |
-| Reverse Nodes In K Group     |   Hard    |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|    [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)       |    Easy    |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|  [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)      |    Easy    |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|       [Reorder List](https://leetcode.com/problems/reorder-list/)          |    Medium    |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
+| [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)            |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
+| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)           |   Easy   |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|  [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)   |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
+| [LRU Cache](https://leetcode.com/problems/lru-cache/)                   |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
+| [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)        |   Hard     |  :heavy_check_mark:  |  :heavy_minus_sign: |
+| [Reverse Nodes In K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)    |   Hard    |  :heavy_check_mark:  |  :heavy_minus_sign: |
 
 ## Trees
 
 |            **Problem**      |**Difficulty**|      **Status**     |   **Redo Status**   |
 |:----------------------------:|:----------:|:--------------------:|:-------------------:|
-|Invert Binary Tree                               |    Easy    |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|Maximum Depth of Binary Tree                     |    Easy    |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|Diameter of Binary Tree                          |    Easy    |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|Balanced Binary Tree                             |    Easy    |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|Same Tree                                        |    Easy    |  :heavy_minus_sign:  |  :heavy_minus_sign: |
-|Subtree of Another Tree                          |    Easy    |  :heavy_minus_sign:  |  :heavy_minus_sign: |
-|Lowest Common Ancestor of a Binary Search Tree   |   Medium   |  :heavy_minus_sign:  |  :heavy_minus_sign: |
-|Binary Tree Level Order Traversal                |   Medium   |  :heavy_minus_sign:  |  :heavy_minus_sign: |
-|Binary Tree Right Side View                      |   Medium   |  :heavy_minus_sign:  |  :heavy_minus_sign: |
-|Count Good Nodes In Binary Tree                  |   Medium   |  :heavy_minus_sign:  |  :heavy_minus_sign: |
-|Validate Binary Search Tree                      |   Medium   |  :heavy_minus_sign:  |  :heavy_minus_sign: |
-|Kth Smallest Element In a Bst                    |   Medium   |  :heavy_minus_sign:  |  :heavy_minus_sign: |
-|Construct Binary Tree From Preorder And Inorder Traversal  |   Medium   |  :heavy_minus_sign:  |  :heavy_minus_sign: |
-|Binary Tree Maximum Path Sum                     |   Hard     |  :heavy_minus_sign:  |  :heavy_minus_sign: |
-|Serialize And Deserialize Binary Tree            |   Hard     |  :heavy_minus_sign:  |  :heavy_minus_sign: |
+|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                               |    Easy    |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                    |    Easy    |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                         |    Easy    |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                             |    Easy    |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|[Same Tree](https://leetcode.com/problems/same-tree/)                                       |    Easy    |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                         |    Easy    |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)   |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)                     |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|[Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                     |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|[Kth Smallest Element In a Bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                    |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|[Construct Binary Tree From Preorder And Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  |   Medium   |  :heavy_minus_sign:  |  :heavy_minus_sign: |
+|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                   |   Hard     |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|[Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)           |   Hard     |  :heavy_minus_sign:  |  :heavy_minus_sign: |
 
 ## Tries
 
 |            **Problem**      |**Difficulty**|      **Status**     |   **Redo Status**   |
 |:----------------------------:|:----------:|:--------------------:|:-------------------:|
-|Implement Trie Prefix Tree|    Medium    |  :heavy_minus_sign:  |  :heavy_minus_sign: |
-|Design Add And Search Words Data Structure|Medium|:heavy_minus_sign:|  :heavy_minus_sign: |
-|Word Search II             |    Hard     |  :heavy_check_mark:  |  :heavy_minus_sign: |
+|[Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/)|    Medium    |  :heavy_minus_sign:  |  :heavy_minus_sign: |
+|[Design Add And Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)|Medium|:heavy_minus_sign:|  :heavy_minus_sign: |
+|[Word Search II](https://leetcode.com/problems/word-search-ii/)            |    Hard     |  :heavy_check_mark:  |  :heavy_minus_sign: |
