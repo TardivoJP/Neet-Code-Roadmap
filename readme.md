@@ -1,6 +1,6 @@
 # Roadmap
 
-## Progress - 59/150
+## Progress - 61/150
 
 ## Arrays & Hashing
 
@@ -93,9 +93,9 @@
 |[Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
 |[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                     |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
 |[Kth Smallest Element In a Bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                    |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|[Construct Binary Tree From Preorder And Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  |   Medium   |  :heavy_minus_sign:  |  :heavy_minus_sign: |
+|[Construct Binary Tree From Preorder And Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  |   Medium   |  :heavy_check_mark:  |  :heavy_minus_sign: |
 |[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                   |   Hard     |  :heavy_check_mark:  |  :heavy_minus_sign: |
-|[Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)           |   Hard     |  :heavy_minus_sign:  |  :heavy_minus_sign: |
+|[Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)           |   Hard     |  :heavy_check_mark:  |  :heavy_minus_sign: |
 
 ## Tries
 
